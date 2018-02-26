@@ -4,6 +4,7 @@ author: "TJM"
 date: "February 25, 2018"
 output: 
   html_document: 
+    fig_caption: yes
     keep_md: yes
 ---
 
